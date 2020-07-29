@@ -1,4 +1,4 @@
 # Hey There!
-# I'm Athul Sanjose
+# I'm Athul 👋
 <br/>
-![github stats](https://github-readme-stats.vercel.app/api?username=ultimateroman&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ultimateroman&show_icons=true&hide_border=true&theme=radical")/>
