@@ -1,10 +1,11 @@
-# Hey There!👋
-# I'm Athul
+<h2 align="center">Hey There!👋</h2>
+<h1 align="center">I'm Athul</h1>
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
 <br/>
 
 - ⚙️ I enjoy working on IoT and Blockchain projects.
+- 🏆 I frequently participate in hackathons and have won prizes in a couple of them.
 - 💡 I would love to collaborate on cool project ideas.
-
 
 <br/>
 
@@ -20,3 +21,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
