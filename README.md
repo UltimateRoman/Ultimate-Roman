@@ -1,9 +1,10 @@
 # Hey There!👋
-# I'm Athul 🤙
+# I'm Athul
 <br/>
 
-- ⚙️ I like to work on IoT and blockchain projects.
-- 💡 I'm ready to collaborate on cool project ideas.
+- ⚙️ I enjoy working on IoT and Blockchain projects.
+- 💡 I would love to collaborate on cool project ideas.
+
 
 <br/>
 
