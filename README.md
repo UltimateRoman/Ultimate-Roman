@@ -6,8 +6,7 @@
 - ⚙️ I enjoy working on IoT and Blockchain projects.
 - 🏆 I frequently participate in hackathons and have won prizes in a couple of them.
 - 💡 I would love to collaborate on cool project ideas.
-
-<br/>
+- 💬 I can help with: Solidity, Smart contracts, Arduino, ESP8266 
 
 ## I'm familiar with
 
@@ -22,6 +21,6 @@
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <p align="center"><samp>
-Check out my repos ⬇️  
+Check out my popular repos ⬇️  
   </samp>
 </p>
