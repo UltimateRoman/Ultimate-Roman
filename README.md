@@ -3,10 +3,14 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
 <br/>
 
-- ⚙️ I enjoy working on IoT and Blockchain projects.
-- 🏆 I frequently participate in hackathons and have won prizes in a couple of them.
-- 💡 I would love to collaborate on cool project ideas.
-- 💬 I can help with: Solidity, Smart contracts, Arduino, ESP8266 
+ ⚙️ I enjoy working on IoT and Blockchain projects. <br/>
+ 🏆 I actively participate in hackathons and have won prizes in a couple of them. <br/> 
+ 💡 I would love to collaborate on cool project ideas. <br/> 
+ 💬 I can help with: Solidity, Smart contracts, Arduino, ESP8266 
+ 
+ <br/>
+ 
+ P.S. All my projects are currently open-source. ⚡
 
 ## I'm familiar with
 
