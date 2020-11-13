@@ -6,7 +6,7 @@
  ⚙️ I enjoy working on IoT and Blockchain projects. <br/>
  🏆 I actively participate in hackathons and have won prizes in a couple of them. <br/> 
  💡 I would love to collaborate on cool project ideas. <br/> 
- 💬 I can help with: Solidity, Smart contracts, Arduino, ESP8266 
+ 💬 I can help with: Solidity, Ethereum Smart Contracts, Arduino, ESP8266
  
  <br/>
  
