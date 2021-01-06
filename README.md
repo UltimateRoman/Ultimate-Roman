@@ -8,10 +8,6 @@
  💡 I would love to collaborate on cool project ideas. <br/> 
  💬 I can help with: Solidity, Ethereum Smart Contracts, Arduino, ESP8266 <br/><br/><br/>
  
- :rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light: <strong>IMPORTANT </strong> :rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light: <br/> 
- :mega: I'm currently seeking support for my project [Hydro-chain](https://devfolio.co/submissions/hydrochain) , Please support with a donation of your choice, which will help me a long way to continue working on more projects. 
- 
- 
  
  <br/><br/>
  
