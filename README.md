@@ -6,13 +6,9 @@
  ⚙️ I enjoy working on IoT and Blockchain projects. <br/>
  🏆 I actively participate in hackathons and have won prizes in a couple of them. <br/> 
  💡 I would love to collaborate on cool project ideas. <br/> 
- 💬 I can help with: Solidity, Ethereum Smart Contracts, Arduino, ESP8266 <br/><br/><br/>
+ 💬 I can help with: Solidity, Ethereum Smart Contracts, Arduino, ESP8266
  
-  P.S. All my projects are currently open-source. ⚡
- 
- ### Wall of Hackathons (Only Devpost ones)
- 
- ![My Wall](https://idemoed.vercel.app/api/wall?username=AS1312)
+ P.S. All my projects are currently open-source. ⚡
  
  <br/><br/>
 
@@ -27,6 +23,12 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ 
+ <br/>
+ 
+ ### Wall of Hackathons (Only Devpost ones)
+ 
+ ![My Wall](https://idemoed.vercel.app/api/wall?username=AS1312)
 
 <p align="center"><samp>
 Check out my popular repos ⬇️  
