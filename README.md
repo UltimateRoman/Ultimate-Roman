@@ -8,13 +8,13 @@
  💡 I would love to collaborate on cool project ideas. <br/> 
  💬 I can help with: Solidity, Ethereum Smart Contracts, Arduino, ESP8266 <br/><br/><br/>
  
+  P.S. All my projects are currently open-source. ⚡
+ 
  ### Wall of Hackathons (Only Devpost ones)
  
  ![My Wall](https://idemoed.vercel.app/api/wall?username=AS1312)
  
  <br/><br/>
- 
- P.S. All my projects are currently open-source. ⚡
 
 ## I'm familiar with
 
