@@ -1,6 +1,6 @@
 <h2 align="center">Hey There!👋</h2>
 <h1 align="center">I'm Athul</h1>
-<img align="right" src="Badge.jpg" alt="github" width="30%" height="30%">
+<img align="right" src="Badge.jpg" alt="MLH_badge" width="30%" height="30%">
 <br/>
 
  ⚙️ I enjoy working on IoT and Blockchain projects. <br/>
@@ -26,7 +26,7 @@
  
  <br/>
  
- ### Wall of Hackathons (Only Devpost ones)
+ ### Hackathon Wall (Only Devpost ones)
  
  ![My Wall](https://idemoed.vercel.app/api/wall?username=AS1312)
 
