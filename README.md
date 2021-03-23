@@ -26,9 +26,9 @@
  
  <br/>
  
- ### Hackathon Wall (Only Devpost ones)
+ ### Hackathon wall (Only Devpost ones)
  
- ![My Wall](https://idemoed.vercel.app/api/wall?username=AS1312)
+ ![H-wall](https://idemoed.vercel.app/api/wall?username=AS1312)
 
 <p align="center"><samp>
 Check out my popular repos ⬇️  
