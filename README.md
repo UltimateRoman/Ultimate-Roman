@@ -1,17 +1,12 @@
-<h2 align="center">Hey There!👋</h2>
+<h2 align="center">Hey!</h2>
 <h1 align="center">I'm Athul</h1>
 <img align="right" src="Badge.jpg" alt="MLH_badge" width="30%" height="30%">
 <br/>
 
- ⚙️ I enjoy working on IoT and Blockchain projects. <br/>
+ ⚙️ I work predominantly on Blockchain and IOT projects. <br/>
  🏆 I actively participate in hackathons and also started out with mentoring recently. <br/> 
- 💡 I would love to collaborate on cool project ideas. <br/> 
- 💬 I can help with: Solidity, Ethereum Smart Contracts, Arduino, ESP8266, CockroachDB
- 
- <br/>
- 
- 
- P.S. All my projects are currently open-source. ⚡
+ 💡 I look forward to collaborate on cool project ideas. <br/> 
+ 💬 I can help with: Ethereum Smart Contracts, ERC20 and ERC721 tokens, Arduino and ESP8266, CockroachDB
  
  <br/>
 
