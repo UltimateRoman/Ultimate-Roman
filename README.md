@@ -6,7 +6,7 @@
  ⚙️ I work predominantly on Blockchain and IOT projects. <br/>
  🏆 I actively participate in hackathons and also started out with mentoring recently. <br/> 
  💡 I look forward to collaborate on cool project ideas. <br/> 
- 💬 I can help with: Ethereum Smart Contracts, ERC20 and ERC721 tokens, Arduino and ESP8266, CockroachDB
+ 💬 I can help with: Ethereum Smart Contracts, NFTs, Arduino & ESP8266, CockroachDB
  
  <br/>
 
