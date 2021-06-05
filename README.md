@@ -28,8 +28,8 @@
  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
  
-<br/>
- 
+<br/><br/>
+
  <p align="right">(Yes I admire MLH)</p>
  
 ### Hackathon flex (Only Devpost ones)
