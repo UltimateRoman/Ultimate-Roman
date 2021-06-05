@@ -32,11 +32,7 @@
 
  <p align="right">(Yes I admire MLH)</p>
  
-### Hackathon flex (Only Devpost ones)
- 
- ![H-flex](https://idemoed.vercel.app/api/wall?username=AS1312)
- 
-<br/>
+ <br/>
 
 <p align="center"><samp>
 Check out my popular repos ⬇️  
