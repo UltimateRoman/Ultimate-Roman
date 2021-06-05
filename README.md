@@ -1,6 +1,8 @@
-<h2 align="center">Hey!</h2>
-<h1 align="center">I'm Athul</h1>
+<h2 align="center">Welcome!</h2>
+<h1 align="center">Hello, I'm Athul</h1>
+
 <img align="right" src="Badge.jpg" alt="MLH_badge" width="30%" height="30%">
+
 <br/>
 
  ⚙️ I work predominantly on Blockchain and IOT projects. <br/>
@@ -26,9 +28,11 @@
  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
  
- <br/>
+<br/>
  
- ### Hackathon flex (Only Devpost ones)
+ <p align="right">(Yes I admire MLH)</p>
+ 
+### Hackathon flex (Only Devpost ones)
  
  ![H-flex](https://idemoed.vercel.app/api/wall?username=AS1312)
  
