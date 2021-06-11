@@ -28,11 +28,8 @@
  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
  
-<br/><br/>
-
- <p align="right">(Yes I admire MLH)</p>
  
- <br/>
+ <br/><br/><br/>
 
 <p align="center"><samp>
 Check out my popular repos ⬇️  
