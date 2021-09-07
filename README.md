@@ -1,16 +1,11 @@
-<h2 align="center">Welcome!</h2>
-<h1 align="center">Hello, I'm Athul</h1>
-
-<img align="right" src="Badge.jpg" alt="MLH_badge" width="30%" height="30%">
+<h1 align="center">Welcome | Bienvenue | Bienvenido</h1>
 
 <br/>
 
  ⚙️ I work predominantly on Blockchain and IOT projects. <br/>
- 🏆 I actively participate in hackathons and also started out with mentoring recently. <br/> 
+ 🏆 I actively participate and also volunteer as a mentor at hackathons <br/> 
  💡 I look forward to collaborate on cool project ideas. <br/> 
- 💬 I can help with: Ethereum Smart Contracts, NFTs, Arduino & ESP8266, CockroachDB
- 
- <br/>
+ 💬 I can help with: Ethereum Smart Contracts and Tokens, NFTs, Arduino, ESP8266.......
 
 ## I'm familiar with
 
@@ -29,7 +24,7 @@
  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
  
  
- <br/><br/><br/>
+ <br/>
 
 <p align="center"><samp>
 Check out my popular repos ⬇️  
