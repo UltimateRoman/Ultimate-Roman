@@ -1,6 +1,7 @@
 <h1 align="center">Welcome | Bienvenue | Bienvenido</h1>
 
 <br/>
+<!--
 
  ⚙️ I work predominantly on Blockchain and IOT projects. <br/>
  🏆 I actively participate and also volunteer as a mentor at hackathons <br/> 
@@ -25,6 +26,7 @@
  
  
  <br/>
+-->
 
 <p align="center"><samp>
 Check out my popular repos ⬇️  
