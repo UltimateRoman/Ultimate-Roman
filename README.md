@@ -2,10 +2,10 @@
 
 <br/>
 
- ⚙️ I work predominantly on Blockchain and IOT projects. <br/>
+ ⚙️ I work predominantly on Blockchain and IOT projects <br/>
  🏆 I actively participate and also volunteer as a mentor at hackathons <br/> 
- 💡 I look forward to collaborate on cool project ideas. <br/> 
- 💬 I can help with: Ethereum Smart Contracts and Tokens, NFTs, Arduino, ESP8266.......
+ 💡 I look forward to collaborate on cool project ideas <br/> 
+ 💬 I can help with: Ethereum Smart Contracts, Arduino, ESP8266 and the like
 
 ## I'm familiar with
 
